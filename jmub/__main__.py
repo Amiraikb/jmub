@@ -55,7 +55,7 @@ async def startup_process():
     LOGS.info("تم انتهاء عملية التنصيب بنجاح")
     LOGS.info(
         f"لمعرفة اوامر السورس ارسل {cmdhr}الاوامر\
-        \nمجموعة قناة السورس  https://t.me/jmthon_support"
+        \nمجموعة قناة السورس  https://t.me/rooiil"
     )
     LOGS.info("============================================================")
     await verifyLoggerGroup()
