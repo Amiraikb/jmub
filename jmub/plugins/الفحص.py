@@ -121,8 +121,8 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
         if query.startswith("السورس") and event.query.user_id == jmub.uid:
             buttons = [
                 [
-                    Button.url("قنـاة السـورس ⚙️", "https://t.me/JMTHON"),
-                    Button.url("المطـور 👨🏼‍💻", "https://t.me/R0R77"),
+                    Button.url("قنـاة السـورس ⚙️", "https://t.me/czziii"),
+                    Button.url("المطـور 👨🏼‍💻", "https://t.me/A_M_E_Rll"),
                 ]
             ]
             if ROZ_PIC and ROZ_PIC.endswith((".jpg", ".png", "gif", "mp4")):
