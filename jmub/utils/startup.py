@@ -110,7 +110,7 @@ async def startupmessage():
             if BOTLOG:
                 await jmub.tgbot.send_file(
                     BOTLOG_CHATID,
-                    "https://graph.org//file/c20c4f492da1811e1bef0.jpg",
+                    "https://graph.org/file/27417b53c4a0b606501eb.jpg",
                     caption="**شكرا لتنصيبك سورس جمثون**\n • هنا بعض الملاحظات التي يجب ان تعرفها عن استخدامك لسورس جمثون.",
                     buttons=[(Button.inline("اضغط هنا", data="initft_2"),)],
                 )
@@ -122,7 +122,7 @@ async def startupmessage():
             if BOTLOG:
                 await jmub.tgbot.send_message(
                     BOTLOG_CHATID,
-                    "**لقد تم بنجاح تنصيب سورس جمثون **\n➖➖➖➖➖➖➖➖➖➖\n**السورس**: @jmthon\n**المطور**: @rooiil\n➖➖➖➖➖➖➖➖➖➖\n**مجموعة الدعم**: @rooiil\n➖➖➖➖➖➖➖➖➖➖",
+                    "**لقد تم بنجاح تنصيب سورس جمثون **\n➖➖➖➖➖➖➖➖➖➖\n**السورس**: @JIBTHON\n**المطور**: @rooiil\n➖➖➖➖➖➖➖➖➖➖\n**مجموعة الدعم**: @rooiil\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         (Button.url("كروب المساعدة", "https://t.me/rooiil"),)
                     ],
@@ -173,7 +173,7 @@ STRINGS = {
   - `.اوامري`
   - `.الاوامر`""",
     5: """• **لأي مساعدة ثانية **
-  - أنضم في مجموعة المساعدة **@jmthon_support**.
+  - أنضم في مجموعة المساعدة **@rooiil**.
 • شكرا لك لقرائتك هذه المقالة.""",
 }
 
