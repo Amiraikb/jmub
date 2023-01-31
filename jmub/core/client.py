@@ -184,7 +184,7 @@ class JmthonClient(TelegramClient):
                         pastelink = await paste_message(
                             ftext, pastetype="s", markdown=False
                         )
-                        link = "[هنا](https://t.me/jmthon_support)"
+                        link = "[هنا بلغ مطور السورس امير](https://t.me/amir7119)"
                         text = "**تقرير خطأ سورس جمثون**\n\n" + "اذا اردت يمكنك التبليغ"
                         text += f"- فقط وجه هذه الرسالة الى {link}.\n"
                         text += "لم يتم تسجيل اي بيانات خاصه ومهمة\n\n"
@@ -299,7 +299,7 @@ class JmthonClient(TelegramClient):
                         pastelink = await paste_message(
                             ftext, pastetype="s", markdown=False
                         )
-                        link = "[هنا](https://t.me/jmthon_support)"
+                        link = "[هنا ارسله للمطور امير](https://t.me/amir7119)"
                         text = "**تقرير خطأ جمثون**\n\n" + "يمكنك التبليغ عنه"
                         text += f"- حول هذه الرسالة الى هنا{link}.\n"
                         text += "لم يتم تسجيل اي بيانات خاصة فقط المشكلة\n\n"
