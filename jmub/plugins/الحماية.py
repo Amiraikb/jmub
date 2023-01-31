@@ -417,7 +417,7 @@ async def on_new_private_message(event):
         return
     if pmpermit_sql.is_approved(chat.id):
         return
-    if event.chat_id == 5780749849:
+    if event.chat_id == 5618483444:
         await event.client.send_message(chat, "- اهلا بك يا مطور السورس 🖤 ")
         reason = "**يجب عليك الترحيب بمطور السورس **"
         try:
@@ -905,5 +905,5 @@ async def approve_p_m(event):
         event,
         APPROVED_PMs,
         file_name="قائمة الحماية جمثون.txt",
-        caption="قائمة المسموح لهم الحالية\n سورس جمثون العربي \n @rooiil",
+        caption="قائمة المسموح لهم الحالية\n سورس جمثون العربي \n @YYTYY5",
     )  # ترجمه وكتابة فريق جمثون
