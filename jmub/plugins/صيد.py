@@ -124,7 +124,7 @@ async def _(event):
 الامر:  `.حالة التثبيت`
 • لمعرفة عدد المحاولات للصيد
 
-@jmthon  - channle userbot 
+@YYTYY5  - channle userbot 
 
 """
     )
