@@ -213,7 +213,7 @@ async def _(event):
         try:
             ch = await jmub(
                 functions.channels.CreateChannelRequest(
-                    title="JMTHON HUNTER - صيد جمثون",
+                    title="JMTHON  - صيد امير ",
                     about="This channel to hunt username by - @jmthon ",
                 )
             )
